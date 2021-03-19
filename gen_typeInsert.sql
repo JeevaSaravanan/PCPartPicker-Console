@@ -1,0 +1,10 @@
+/*
+-- Query: SELECT * FROM pc_part_picker.gen_type
+LIMIT 0, 1000
+
+-- Date: 2021-03-06 16:20
+*/
+INSERT INTO `` (`GID`,`GEN/SERIES`,`CID`) VALUES (1,'10 Intel',1);
+INSERT INTO `` (`GID`,`GEN/SERIES`,`CID`) VALUES (2,'9 Intel',1);
+INSERT INTO `` (`GID`,`GEN/SERIES`,`CID`) VALUES (3,'3 AMD',2);
+INSERT INTO `` (`GID`,`GEN/SERIES`,`CID`) VALUES (4,'5 AMD',2);
